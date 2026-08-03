@@ -384,4 +384,8 @@ KPI comparisons help monitor annual business growth and operational efficiency.
 
  Show what the Dashboard looks like:-
  1. https://github.com/harshdahiya0010/Financial-InsightX-KPIs-Dashboard/blob/main/Snapshot%20of%20the%20Overview%20Analysis%20Dashboard.png
+    <img width="1357" height="718" alt="Snapshot of the Overview Analysis Dashboard" src="https://github.com/user-attachments/assets/3d14172c-5575-48e3-936a-a9b4857f7828" />
+
  2.https://github.com/harshdahiya0010/Financial-InsightX-KPIs-Dashboard/blob/main/2.%20Snapshot%20of%20the%20Dashboard%20-%20Transactions.png
+<img width="1351" height="799" alt="2  Snapshot of the Dashboard - Transactions" src="https://github.com/user-attachments/assets/0f90cf0e-c506-45be-a951-4d65ed3b2d91" />
+
